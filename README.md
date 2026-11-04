@@ -6,7 +6,7 @@ This project is a hands-on introduction to building AI agents using **LangChain 
 
 The primary objective is to understand the fundamentals of AI agent development, including agent initialization, LLM integration, tool creation, tool calling, system prompts, and agent execution.
 
-This project is part of my practical learning journey toward becoming an **AI Security Engineer**, focusing on understanding how AI agents work internally before exploring their security vulnerabilities and protection mechanisms.
+Focusing on understanding how AI agents work internally before exploring their security vulnerabilities and protection mechanisms.
 
 ## 2. Learning Objectives
 
